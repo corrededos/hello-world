@@ -1,2 +1,2 @@
 # hello-world
-Following n00b guide line to create repository, nothing much to see here!
+Following the Git n00b guide online to learn stuff. Nothing much to see here!
